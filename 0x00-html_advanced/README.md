@@ -10,3 +10,35 @@ Create the head and body sections.
 - [x] **Task 2. The head - meta charset, viewport, title, description, favicons.**\
 [2-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/2-index.html)\
 Add tthe elements of the title description.
+
+- [x] **Task 3. Simple header, main, footer.**\
+[3-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/3-index.html)\
+Create the header main and footer sections of the structure.
+
+- [x] **Task 4. Aside.**\
+[4-index.html]()\
+Add an aside tag.
+
+- [ ] **Task 5. Section.**\
+[5-index.html]()\
+Create several sections inside main.
+
+- [ ] **Task 6. Work, News, Testimonial articles.**\
+[6-index.html]()\
+Create the 3 articles above.
+
+- [ ] **Task 7. Navigation.**\
+[7-index.html]()\
+Empty navigation tag inside the header.
+
+- [ ] **Task 8. Level 1 headings.**\
+[8-index.html]()\
+Headings...
+
+- [ ] **Task 9. Level 2 headings.**\
+[9-index.html]()\
+And more headings...
+
+- [ ] **Task 10. Level 3 headings.**\
+[10-index.html]()\
+And Even more headings...
