@@ -32,7 +32,7 @@ Create the 3 articles for each section above.
 Empty navigation tag inside the header.
 
 - [x] **Task 8. Level 1 headings.**\
-[8-index.html]()\
+[8-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/8-index.html)\
 Headings...
 
 - [ ] **Task 9. Level 2 headings.**\
