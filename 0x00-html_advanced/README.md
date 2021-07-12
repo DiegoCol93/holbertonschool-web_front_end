@@ -27,8 +27,8 @@ Create several sections inside main.
 [6-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/6-index.html)\
 Create the 3 articles for each section above.
 
-- [ ] **Task 7. Navigation.**\
-[7-index.html]()\
+- [x] **Task 7. Navigation.**\
+[7-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/7-index.html)\
 Empty navigation tag inside the header.
 
 - [ ] **Task 8. Level 1 headings.**\
