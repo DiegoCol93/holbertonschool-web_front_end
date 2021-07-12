@@ -16,11 +16,11 @@ Add tthe elements of the title description.
 Create the header main and footer sections of the structure.
 
 - [x] **Task 4. Aside.**\
-[4-index.html]()\
+[article.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/article.html)\
 Add an aside tag.
 
-- [ ] **Task 5. Section.**\
-[5-index.html]()\
+- [x] **Task 5. Section.**\
+[5-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/5-index.html)\
 Create several sections inside main.
 
 - [ ] **Task 6. Work, News, Testimonial articles.**\
