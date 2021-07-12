@@ -35,8 +35,8 @@ Empty navigation tag inside the header.
 [8-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/8-index.html)\
 Headings...
 
-- [ ] **Task 9. Level 2 headings.**\
-[9-index.html]()\
+- [x] **Task 9. Level 2 headings.**\
+[9-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/9-index.html)\
 More headings...
 
 - [ ] **Task 10. Level 3 headings.**\
