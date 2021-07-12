@@ -23,9 +23,9 @@ Add an aside tag.
 [5-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/5-index.html)\
 Create several sections inside main.
 
-- [ ] **Task 6. Work, News, Testimonial articles.**\
-[6-index.html]()\
-Create the 3 articles above.
+- [x] **Task 6. Work, News, Testimonial articles.**\
+[6-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/6-index.html)\
+Create the 3 articles for each section above.
 
 - [ ] **Task 7. Navigation.**\
 [7-index.html]()\
