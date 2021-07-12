@@ -7,6 +7,6 @@ Create an empty html structure.
 [1-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/1-index.html)\
 Create the head and body sections.
 
-- [x] **Task 2. The head - meta charset, viewport, title, description, favicons **\
+- [x] **Task 2. The head - meta charset, viewport, title, description, favicons**\
 [2-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/2-index.html)\
 Add tthe elements of the title description.
