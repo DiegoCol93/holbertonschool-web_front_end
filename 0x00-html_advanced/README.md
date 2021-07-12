@@ -42,3 +42,7 @@ More headings...
 - [x] **Task 10. Level 3 headings.**\
 [10-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/10-index.html)\
 And even more headings...
+
+- [x] **Task 11. styleguide.**\
+[11-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/11-styleguide.html)\
+Style guide including all heading lvls.
