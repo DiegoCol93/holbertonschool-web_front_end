@@ -1,7 +1,9 @@
 # 0x00. Advanced HTML #
 ```
 ┌──── 0-index.html
-│ ## 0. Create your "first" webpage
+│ Task 0. Create your "first" webpage.
+│ │
+│ └── Create an empty html structure.
 │
 ├──── 1-index.html
 │
