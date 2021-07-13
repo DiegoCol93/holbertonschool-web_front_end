@@ -50,3 +50,8 @@ Style guide including all heading lvls.
 - [x] **Task 12. Paragraphs**\
 [12-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/12-index.html)\
 Add some paragraphs.
+
+- [x] **Task 13. styleguide paragraphs**\
+[13-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/13-styleguide.html)\
+Add styleguide paragraphs.
+
