@@ -46,3 +46,7 @@ And even more headings...
 - [x] **Task 11. styleguide.**\
 [11-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/11-styleguide.html)\
 Style guide including all heading lvls.
+
+- [x] **Task 12. Paragraphs**\
+[12-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/12-index.html)\
+Add some paragraphs.
