@@ -47,11 +47,18 @@ And even more headings...
 [11-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/11-styleguide.html)\
 Style guide including all heading lvls.
 
-- [x] **Task 12. Paragraphs**\
+- [x] **Task 12. Paragraphs.**\
 [12-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/12-index.html)\
 Add some paragraphs.
 
-- [x] **Task 13. styleguide paragraphs**\
+- [x] **Task 13. styleguide paragraphs.**\
 [13-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/13-styleguide.html)\
 Add styleguide paragraphs.
 
+- [x] **Task 14. Span.**\
+[14-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/14-index.html)\
+Add span on header.
+
+- [x] **Task 15. Div.**\
+[15-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/15-index.html)\
+Wrap the contents of the header, footer and all section elements.
