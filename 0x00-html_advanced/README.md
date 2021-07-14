@@ -70,3 +70,7 @@ More divs for more structure, on "Title" of each section.
 - [x] **Task 17. Comments.**\
 [17-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/17-index.html)\
 Add comments and line breaks.
+
+- [s] **Task 18. link your logo.**\
+[18-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/18-index.html)\
+Add a link to the page's root folder.
