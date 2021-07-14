@@ -88,3 +88,7 @@ Add anchors to all sections in page.
 - [x] **Task 21. Add social media links.**\
 [21-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/21-index.html)\
 Add links to holbertonschool's social media.
+
+- [x] **Task 22. "Button" links.**\
+[22-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/22-index.html)\
+Add links to the about, contact.html and #.
