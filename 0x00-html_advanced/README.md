@@ -61,4 +61,8 @@ Add span on header.
 
 - [x] **Task 15. Div.**\
 [15-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/15-index.html)\
-Wrap the contents of the header, footer and all section elements.
+Wrap the contents of the header, footer and all section contents with a div.
+
+- [x] **Task 16. Structure your sections.**\
+[16-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/16-index.html)\
+More divs for more structure, on "Title" of each section.
