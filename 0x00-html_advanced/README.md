@@ -74,3 +74,11 @@ Add comments and line breaks.
 - [x] **Task 18. link your logo.**\
 [18-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/18-index.html)\
 Add a link to the page's root folder.
+
+- [x] **Task 19. Create new pages.**\
+[about.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/about.html)\
+[latest_news.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/latest_news.html)\
+[contact.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/contact.html)\
+
+- [x] **Task 20. Add links.**\
+[20-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/20-index.html)\
