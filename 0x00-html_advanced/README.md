@@ -92,3 +92,7 @@ Add links to holbertonschool's social media.
 - [x] **Task 22. "Button" links.**\
 [22-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/22-index.html)\
 Add links to the about, contact.html and #.
+
+- [x] **Task 23. Services, Works, Latest news links.**\
+[23-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/23-index.html)\
+Add more links to all h3 headings.
