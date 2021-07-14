@@ -84,3 +84,7 @@ Create three new pages.
 - [x] **Task 20. Add links.**\
 [20-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/20-index.html)\
 Add anchors to all sections in page.
+
+- [x] **Task 21. Add social media links.**\
+[21-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/21-index.html)\
+Add links to holbertonschool's social media.
