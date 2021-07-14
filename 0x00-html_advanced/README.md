@@ -79,6 +79,8 @@ Add a link to the page's root folder.
 [about.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/about.html)\
 [latest_news.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/latest_news.html)\
 [contact.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/contact.html)\
+Create three new pages.
 
 - [x] **Task 20. Add links.**\
 [20-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/20-index.html)\
+Add anchors to all sections in page.
