@@ -124,3 +124,7 @@ Add the blockquotes of "clients".
 - [x] **Task 30. Examples of quotes.**\
 [30-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/30-styleguide.html)\
 Add examples of quotes.
+
+- [x] **Task 31. Address and latest news authors.**\
+[31-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/31-index.html)\
+Add address and authors of the news section.
