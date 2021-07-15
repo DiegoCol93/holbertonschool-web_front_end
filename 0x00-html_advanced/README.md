@@ -105,6 +105,6 @@ List in an unordered list, all the links in nav and footer.
 [25-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/25-index.html)\
 Add Terms of Use, Privacy Policy and Cookie Policy navigation links.
 
-- [ ] **Task 26. Examples of lists for the styleguide.**\
+- [x] **Task 26. Examples of lists for the styleguide.**\
 [26-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/26-styleguide.html)\
 Add examples of ul, ol and dl.
