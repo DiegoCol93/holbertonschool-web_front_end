@@ -112,3 +112,7 @@ Add examples of ul, ol and dl.
 - [x] **Task 27. Separate content.**\
 [27-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/27-index.html)\
 Add Horizontal rule hr and paragraph.
+
+- [ ] **Task 28. Horizontal rule example.**\
+[28-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/28-styleguide.html)\
+Add Horizontal rule sample.
