@@ -109,6 +109,6 @@ Add Terms of Use, Privacy Policy and Cookie Policy navigation links.
 [26-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/26-styleguide.html)\
 Add examples of ul, ol and dl.
 
-- [ ] **Task 27. Separate content.**\
+- [x] **Task 27. Separate content.**\
 [27-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/27-index.html)\
 Add Horizontal rule hr and paragraph.
