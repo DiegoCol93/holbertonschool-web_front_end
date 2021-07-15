@@ -116,3 +116,7 @@ Add Horizontal rule hr and paragraph.
 - [x] **Task 28. Horizontal rule example.**\
 [28-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/28-styleguide.html)\
 Add Horizontal rule sample.
+
+- [x] **Task 29. Client quotes.**\
+[29-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/29-index.html)\
+Add the blockquotes of "clients"
