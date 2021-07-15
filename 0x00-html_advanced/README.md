@@ -136,3 +136,7 @@ Add the correct tags for given typography.
 - [x] **Task 33. Table.**\
 [33-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/33-styleguide.html)\
 Add sample table.
+
+- [x] **Task 34. Details.**\
+[34-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/34-styleguide.html)\
+Added collapsible details.
