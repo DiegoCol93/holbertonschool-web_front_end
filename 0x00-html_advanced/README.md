@@ -128,3 +128,7 @@ Add examples of quotes.
 - [x] **Task 31. Address and latest news authors.**\
 [31-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/31-index.html)\
 Add address and authors of the news section.
+
+- [x] **Task 32. Typography section - using the correct tags.**\
+[32-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/32-styleguide.html)\
+Add the correct tags for given typography.
