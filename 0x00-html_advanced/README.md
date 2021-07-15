@@ -97,7 +97,7 @@ Add links to the about, contact.html and #.
 [23-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/23-index.html)\
 Add more links to all h3 headings.
 
-- [ ] **Task 24. List the links.**\
+- [x] **Task 24. List the links.**\
 [24-index.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/24-index.html)\
 List in an unordered list, all the links in nav and footer.
 
