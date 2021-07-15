@@ -140,3 +140,7 @@ Add sample table.
 - [x] **Task 34. Details.**\
 [34-styleguide.html](https://github.com/DiegoCol93/holbertonschool-web_front_end/blob/main/0x00-html_advanced/34-styleguide.html)\
 Added collapsible details.
+
+* [x] **Task 35. Replace text logo with image logo.**\
+[35-index.html](35-index.html)\
+Add a logo for the title and footer.
