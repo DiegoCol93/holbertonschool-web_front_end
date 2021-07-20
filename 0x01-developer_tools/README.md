@@ -1,6 +1,6 @@
 # 0x01. Developer tools #
 
-- General
+## General ##
 - What Developer Tools in your browser are
 - How to open the Developer Tools on Chrome, Firefox, Safari, and Edge.
 - How to use the elements tab to edit HTML and CSS
