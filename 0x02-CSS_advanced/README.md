@@ -1,4 +1,4 @@
-# Learning Objectives #
+# 0x02-CSS_advanced #
 - Selectors, properties, and values
 - The difference between block and inline styling
 - How to ensure consistency across all browers (CSS reset)
