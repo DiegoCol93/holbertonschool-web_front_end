@@ -493,7 +493,7 @@ template {
 
 .nav .nav-link {
   display: block;
-  padding: .5rem 1rem .5rem 1rem;
+  padding: 1rem .5rem 1rem .5rem;
 }
 
 .nav .nav-link:hover {
