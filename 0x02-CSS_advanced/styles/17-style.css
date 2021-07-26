@@ -428,7 +428,7 @@ template {
 
 .section-header {
   text-align: var(--section-header-align);
-  padding: var(--section-body-padding);
+  padding: var(--section-padding);
 }
 
 .section-body {
