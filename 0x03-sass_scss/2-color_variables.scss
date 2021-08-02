@@ -1,0 +1,16 @@
+/* Gives color to the text of body and p. */
+$text-color: #3D3D3D;
+$bg-color: #6D6D6D;
+
+body {
+  color: $text-color;
+  background-color: $bg-color;
+}
+
+p {
+  color: $text-color;
+}
+
+h2 {
+  background-color: $bg-color;
+}

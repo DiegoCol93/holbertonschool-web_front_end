@@ -1,0 +1,23 @@
+/* Sorts a list of strings. */
+@import '103-sort_list';
+
+$order: "" "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+
+$list_sorted: "";
+
+@each $name in $list_to_sort {
+  $char: str-slice($name, 1 ,1);
+  @if index($order, $char) {
+	@each $item in $list_sorted {
+	  @if index($order, $char) < index($order, str-slice($item, 1, 1))
+	  {
+		$list_sorted: join($name, $list_sorted);
+	  } @else {
+		$list_sorted: append($list_sorted, $name);
+		break;
+	  }
+	}
+  }
+}
+
+@debug $list_sorted
