@@ -344,8 +344,6 @@
       ============================= */
   
   .section-hero {
-      color: var(--color-white);
-      text-transform: uppercase;
       position: relative;
       margin-top: -8.5rem;
   }
@@ -355,6 +353,11 @@
     background-repeat: no-repeat;
     background-size: 90rem auto;
     background-color: #010101;
+  }
+
+  .section-hero .section-category {
+      color: var(--color-white);
+      text-transform: uppercase;
   }
   
   .section-hero .section-title {
